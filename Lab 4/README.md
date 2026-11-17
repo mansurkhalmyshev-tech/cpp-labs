@@ -273,4 +273,4 @@ O(1). Поскольку у нас есть указатель на хвост (
 
 
  ### Ссылка на Git-репозиторий
-https://github.com/mansurkhalmyshev-tech/Lab4-ACD/blob/main/README.md
+https://github.com/mansurkhalmyshev-tech/cpp-labs.git
