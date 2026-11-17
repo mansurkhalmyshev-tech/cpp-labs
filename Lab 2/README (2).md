@@ -7,7 +7,7 @@
 **Вариант:** 10  
 **Уровень:** Средний  
 **Язык программирования:** C++
-**Ссылка на репозиторий** https://github.com/mansurkhalmyshev-tech/Lab2-ACD.git
+**Ссылка на репозиторий** https://github.com/mansurkhalmyshev-tech/cpp-labs.git 
 ---
 
 ## 1. Цель работы
